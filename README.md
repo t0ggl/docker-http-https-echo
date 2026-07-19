@@ -1,6 +1,6 @@
 [![pulls](https://img.shields.io/docker/pulls/t0ggl/http-https-echo.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/t0ggl/http-https-echo)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/t0ggl/http-https-echo?color=lightblue&label=latest&sort=semver&style=for-the-badge)](https://hub.docker.com/r/t0ggl/http-https-echo)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/t0ggl/docker-http-https-echo/build.yml?color=darkgreen&style=for-the-badge&branch=master)](https://github.com/t0ggl/docker-http-https-echo/actions?query=workflow%3ABuild)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/t0ggl/docker-http-https-echo/build.yml?color=darkgreen&style=for-the-badge&branch=main)](https://github.com/t0ggl/docker-http-https-echo/actions?query=workflow%3ABuild)
 
 
 `t0ggl/http-https-echo` is a Docker image that can echo various HTTP request properties back to client in the response, as well as in the Docker container logs.
